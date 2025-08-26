@@ -1,1 +1,1 @@
-{"path":"./assets/public/assets/weights", "type":"disk", "test": true}
+{"path":"/assets/weights", "type":"url", "test": true}
